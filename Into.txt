@@ -1,0 +1,4 @@
+This is a CIS 407 game project using Corona 2D.
+
+While this repository is empty at the moment, it will be filled with
+files involving lua and game PNGs.
