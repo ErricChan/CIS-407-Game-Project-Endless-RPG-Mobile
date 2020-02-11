@@ -1,0 +1,22 @@
+This package includes high quality pixel-like sprites for jump and run, platform or puzzle games. The package includes: 
+
+Ground and Water Tiles: 128x128 px 
+
+Foliage:
+Grass,
+Bush,
+Two trees,
+Six Flowers,
+Two animated seaweed sprites, 
+
+Two sign sprites, plus a blank one
+Arrow sign, 
+
+Accessories (House, Bridge, ladder, fence, wooden box, rusty nails) 
+
+Animated fish,
+Animated hen, 
+
+A Background with two separate cloud sprites 
+
+Sun sprite
