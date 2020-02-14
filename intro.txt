@@ -1,0 +1,5 @@
+This is a CIS 407 game project using Corona 2D.
+
+Currently, the project can only be played through Corona 2D simulator.
+However, the game has the basic battle system and difficulty progression
+working with the 1st monster created as well.
