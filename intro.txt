@@ -1,5 +1,11 @@
 This is a CIS 407 game project using Corona 2D.
 
-Currently, the project can only be played through Corona 2D simulator.
-However, the game has the basic battle system and difficulty progression
-working with the 1st monster created as well.
+This game is a endless RPG battle game app, which pits you against
+an endless wave of monsters. You face them one at a time, but each
+monster is stronger than the last. Luckily, you can upgrade yourself
+for every monster you kill (to a certain extent). Attack while watching
+your health, as well as heal yourself based on the situation! 
+Currently, there is 6 unique monsters you can face in this game and you can
+get your kills in the high score board whenever you die.
+
+Note: If you close the game during gameplay, your kill count will reset...
