@@ -1,5 +1,7 @@
 This is a CIS 407 game project using Corona 2D.
 
+To play this, you need to install and use the Corona Simulator.
+
 This game is a endless RPG battle game app, which pits you against
 an endless wave of monsters. You face them one at a time, but each
 monster is stronger than the last. Luckily, you can upgrade yourself
